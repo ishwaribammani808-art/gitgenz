@@ -10,3 +10,9 @@ Mandatory commands:
 >>git remote add orgin https://github.com/ishwaribammani808-art/gitgenz.git
 
 git pull origin main
+git status
+
+git add .
+git status
+git commit -m "commit message"
+git push
