@@ -1,0 +1,12 @@
+for the time to configure github in our system
+
+git config --global user.name"ishwaribammani808"
+git config --global user.email"ishwaribammani808@gmail.com-art" 
+
+git config --global color.ui.auto
+
+Mandatory commands:
+>>git init
+>>git remote add orgin https://github.com/ishwaribammani808-art/gitgenz.git
+
+git pull origin main
